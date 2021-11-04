@@ -1,0 +1,13 @@
+Diketahui:
+
+Suku pertama : a = 1
+
+Jumlah Suku  : Un  = 2000
+
+Ditanya = Hasil penjumlahan dari 1+2+3+4+........+1997+1998+1999+2000 = ?
+
+Jawab : Menggunakan rumus Deret Aritmatika ( Sn = n/2 (a + Un) ).
+Sn = n/2 (a + Un)
+   = 2000/2 (1 + 2000)
+   = 1000 (2001)
+   = 2.001.000
