@@ -1,0 +1,18 @@
+Diketahui : 
+Gelas A : 1000L
+Gelas B : 700L
+Gelas C : 300L
+Gelas D : 100L
+karena terdapat lubang di tepi tengah gelas A sampai C maka kapasitas masing-masing gelas A sampai C dibagi 2 ,sebagai berikut:
+Gelas A : 1000L / 2 = 500L
+Gelas B : 700L / 2 = 350L
+Gelas C : 300L / 2 = 150L
+Gelas D : 100L
+
+Ditanya :
+Berapa liter air pada gelas D apabila gelas A dituangkan 1000L air ?
+
+Jawab : 
+a. Dari gelas A mengalir sebanyak 500 liter (1000L - 500L) ke gelas B  
+b. Dari gelas B mengalir sebanyak 150 liter (500L - 350L) ke gelas C
+c. Dari gelas C mengalir 0 liter ke gelas D, dikarenakan debit air di Gelas C berada tepat di lubang tepi tengah Gelas C.
